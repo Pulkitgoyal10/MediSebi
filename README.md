@@ -10,7 +10,6 @@
 
 Built using modern web technologies and AI-driven workflows, MediSebi transforms traditional pharmacy operations into a **data-driven, intelligent system**.
 
-> Built using AI app builder platforms like Lovable, which enable rapid development of full-stack applications using natural language prompts ([Google Play][1])
 
 ---
 
